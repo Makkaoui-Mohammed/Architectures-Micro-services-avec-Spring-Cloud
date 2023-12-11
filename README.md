@@ -1,10 +1,3 @@
-![chrome_P1nUU1dHHA](https://github.com/jadkhafife/J2EE/assets/84312318/02b056fb-dfb8-430d-8801-71b24ed8cd64)
-![chrome_FV6yraQFuo](https://github.com/jadkhafife/J2EE/assets/84312318/2ca6a5b1-8846-4e5c-8d30-e9a7cef46d0e)
-![chrome_zrLztJRBt2](https://github.com/jadkhafife/J2EE/assets/84312318/3aea4e14-d993-46fb-b3c9-17827c5d0874)
-![chrome_6mn50iFNbs](https://github.com/jadkhafife/J2EE/assets/84312318/478eeefb-015f-4b93-961b-5227962a806a)
-![chrome_bNUbiuRTlK](https://github.com/jadkhafife/J2EE/assets/84312318/23c28cc1-052c-4cd1-8dad-0ed479592fb6)
-![W6IRFCQhsd](https://github.com/jadkhafife/J2EE/assets/84312318/cf0faa33-763d-47e7-ad39-ec5a8cff9e89)
-******************
 ![cmd](https://github.com/Makkaoui-Mohammed/Architectures-Micro-services-avec-Spring-Cloud/assets/108239380/eaa0107c-3e5b-419a-9c1e-f9c19640cb5f)
 ![code](https://github.com/Makkaoui-Mohammed/Architectures-Micro-services-avec-Spring-Cloud/assets/108239380/5a6dd88f-41ff-4145-bba1-80838b258599)
 ![code2](https://github.com/Makkaoui-Mohammed/Architectures-Micro-services-avec-Spring-Cloud/assets/108239380/de0a68d7-b043-4746-a22e-c59fd339613b)
